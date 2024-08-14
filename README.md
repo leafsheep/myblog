@@ -20,7 +20,7 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
   Historic note: previous version checked the homepage content was not empty.
 -->
 
-## Step 3: Customize your homepage
+## Customize your homepage
 
 _Nice work setting the theme! :sparkles:_
 

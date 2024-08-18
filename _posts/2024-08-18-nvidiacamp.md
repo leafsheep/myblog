@@ -205,6 +205,7 @@ with gr.Blocks() as demo:
 ![Alt text](/myblog/assets/2024-08-18-nvidiacamp/image-1.png)
 
 ### 问题与解决方案 
+
 |id|问题分析|解决方案|
 |----|----|----|
 |1|知识库数据质量参差不齐|对原始数据进行清洗、筛选、切分和元数据抽取,提高知识库质量。|

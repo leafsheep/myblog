@@ -30,6 +30,7 @@ date: 2024-08-18
 3. 部署并配置FunASR以及EdgeTTS模型。
 4. 配置Nvidia以及Bedrock API,使用云端模型算力。
 5. 部署并配置Gradio实现GUI前端交互。
+
 ##### 代码实现
 1. 构建并预处理诗词知识库
 ```python
